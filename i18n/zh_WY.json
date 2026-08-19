@@ -1,0 +1,22 @@
+{
+    "title": "自泯",
+    "warn": "警：此程式將自毀！",
+    "signals": "信號（限類Unix）",
+    "sigterm": "終止",
+    "sigkill": "必殺",
+    "sigsegv": "段錯",
+    "sigbus": "總線錯",
+    "sigill": "非法指令",
+    "exceptions": "Python異常",
+    "name_error": "名錯",
+    "type_error": "類錯",
+    "value_error": "值錯",
+    "index_error": "標錯",
+    "key_error": "鍵錯",
+    "zero_division_error": "除零錯",
+    "other": "餘類",
+    "raise_exception": "起異",
+    "null_pointer": "空指（ctypes）",
+    "abort": "中斷",
+    "blocking": "壅塞介面"
+}

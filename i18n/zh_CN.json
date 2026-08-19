@@ -1,0 +1,22 @@
+{
+    "title": "自我终结器",
+    "warn": "警告：这个程序会让自己崩溃！",
+    "signals": "信号（仅限类 Unix 系统）",
+    "sigterm": "SIGTERM",
+    "sigkill": "SIGKILL",
+    "sigsegv": "SIGSEGV",
+    "sigbus": "SIGBUS",
+    "sigill": "SIGILL",
+    "exceptions": "Python 异常",
+    "name_error": "NameError",
+    "type_error": "TypeError",
+    "value_error": "ValueError",
+    "index_error": "IndexError",
+    "key_error": "KeyError",
+    "zero_division_error": "ZeroDivisionError",
+    "other": "其他",
+    "raise_exception": "抛出异常",
+    "null_pointer": "空指针（ctypes）",
+    "abort": "中止",
+    "blocking": "阻塞 UI 线程"
+}

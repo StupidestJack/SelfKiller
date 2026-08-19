@@ -1,0 +1,22 @@
+{
+    "title": "Self Killer",
+    "warn": "Warning: This program will make itself CRASH!",
+    "signals": "Signals (Unix-like only)",
+    "sigterm": "SIGTERM",
+    "sigkill": "SIGKILL",
+    "sigsegv": "SIGSEGV",
+    "sigbus": "SIGBUS",
+    "sigill": "SIGILL",
+    "exceptions": "Python Exceptions",
+    "name_error": "NameError",
+    "type_error": "TypeError",
+    "value_error": "ValueError",
+    "index_error": "IndexError",
+    "key_error": "KeyError",
+    "zero_division_error": "ZeroDivisionError",
+    "other": "Other",
+    "raise_exception": "Raise an exception",
+    "null_pointer": "Null pointer (ctypes)",
+    "abort": "Abort",
+    "blocking": "Blocking UI thread"
+}

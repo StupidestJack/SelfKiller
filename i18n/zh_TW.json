@@ -1,0 +1,22 @@
+{
+    "title": "自我毀滅者",
+    "warn": "警告：此程式將自我毀滅！",
+    "signals": "訊號（僅限 Unix-like 作業系統）",
+    "sigterm": "SIGTERM",
+    "sigkill": "SIGKILL",
+    "sigsegv": "SIGSEGV",
+    "sigbus": "SIGBUS",
+    "sigill": "SIGILL",
+    "exceptions": "Python 例外",
+    "name_error": "NameError",
+    "type_error": "TypeError",
+    "value_error": "ValueError",
+    "index_error": "IndexError",
+    "key_error": "KeyError",
+    "zero_division_error": "ZeroDivisionError",
+    "other": "其他",
+    "raise_exception": "拋出一個例外",
+    "null_pointer": "Null 指標引用 (ctypes)",
+    "abort": "中止",
+    "blocking": "阻塞 UI 執行緒"
+}

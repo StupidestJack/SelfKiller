@@ -1,0 +1,22 @@
+{
+    "title": "Self Killer",
+    "warn": "警告: このプログラムは自分でクラッシュします！",
+    "signals": "シグナル (Unix系のみ)",
+    "sigterm": "SIGTERM",
+    "sigkill": "SIGKILL",
+    "sigsegv": "SIGSEGV",
+    "sigbus": "SIGBUS",
+    "sigill": "SIGILL",
+    "exceptions": "Python 例外",
+    "name_error": "NameError",
+    "type_error": "TypeError",
+    "value_error": "ValueError",
+    "index_error": "IndexError",
+    "key_error": "KeyError",
+    "zero_division_error": "ZeroDivisionError",
+    "other": "その他",
+    "raise_exception": "例外を発生させる",
+    "null_pointer": "ヌルポインタ (ctypes)",
+    "abort": "中止 (Abort)",
+    "blocking": "UIスレッドをブロック"
+}

@@ -1,0 +1,22 @@
+{
+    "title": "自我杀手",
+    "warn": "警告：此程序将自行死机！",
+    "signals": "信号（仅限类 Unix 系统）",
+    "sigterm": "终止信号",
+    "sigkill": "强制终止",
+    "sigsegv": "段错误",
+    "sigbus": "公車错误",
+    "sigill": "封印",
+    "exceptions": "Python 异常",
+    "name_error": "名称错误",
+    "type_error": "类型错误",
+    "value_error": "值错误",
+    "index_error": "索引错误",
+    "key_error": "键错误",
+    "zero_division_error": "零除以错误",
+    "other": "其他",
+    "raise_exception": "抛出异常",
+    "null_pointer": "空指针（c类型）",
+    "abort": "中止",
+    "blocking": "正在封锁 UI 线程"
+}
